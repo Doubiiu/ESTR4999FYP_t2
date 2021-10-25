@@ -1,0 +1,3 @@
+2020.3.11
+meeting: 建议方向：P帧，motion vector提取进入网络里进行训练
+        关键词：MPEG Lib， motion compensetion，P帧有很多block，每个block是16*16大小，会记录这一block的像素来自上一帧的那块，如果相同mv就为0，
